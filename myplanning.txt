@@ -1,6 +1,9 @@
 planning saya untuk kedepannya :
 
 - Lebih fokus belajar programming.
+  ^ membuat aplikasi mobile yang bermanfaat
+  ^ membuat ui/ux aplikasi mobile yang keren
+  
 - selalu meluangkan waktu saya untuk belajar programming.
 - mempelajari teknologi baru yang digunakan dalam mengembangkan web app / mobile app
 - membuat suatu mini project dari hasil belajar
