@@ -1,0 +1,5 @@
+hallo bang, salam kenal naman saya muhammad hari gunawansyah dari kubu raya
+
+planning saya :
+- Membuat website menggunakan framework laravel
+- Bekerja di startup indonesia
